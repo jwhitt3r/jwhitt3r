@@ -3,7 +3,7 @@ I am your friendly neighbourhood PhD and a somewhat hacky Python and Go Dev who 
 
 I occasionally post code that focuses primiarly on Security tools, however, I have been known to develop data analysis applications and some other various things. 
 
-Blog site is being rebuilt [Exit.WTF](http://exit.wtf). If you want to reach me you can find/follow me on [Twitter](https://twitter.com/Jack_WJ).
+Blog site is being rebuilt [Exit.WTF](http://exit.wtf).
 <!--
 **jwhitt3r/jwhitt3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
