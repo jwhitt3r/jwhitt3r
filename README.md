@@ -1,9 +1,9 @@
 ### Hay there! 👋
-I am your friendly neighbourhood PhD and a somewhat hacky Python and Go Dev who focuses on Security.
+Hello, I am Dr Jack Whitter-Jones. 
 
-I occasionally post code that focuses primiarly on Security tools, however, I have been known to develop data analysis applications and some other various things. 
+I am an avid developer and cyber security engineer programming in a number of languages and developing random tools.
 
-Blog site is being rebuilt [Exit.WTF](http://exit.wtf).
+You can find my blog at [whitterjones.net](http://whitterjones.net).
 <!--
 **jwhitt3r/jwhitt3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
