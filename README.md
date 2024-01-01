@@ -1,9 +1,9 @@
 ### Hay there! 👋
-Hello, I am Dr Jack Whitter-Jones. 
+Hay, I am Dr Jack Whitter-Jones!
 
 I am an avid developer and cyber security engineer programming in a number of languages and developing random tools.
 
-You can find my blog at [whitterjones.net](http://whitterjones.net).
+Follow my blog at [whitterjones.net](http://whitterjones.net).
 <!--
 **jwhitt3r/jwhitt3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
