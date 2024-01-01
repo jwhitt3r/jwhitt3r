@@ -1,5 +1,5 @@
 ### Hay there! 👋
-Hay, I am Dr Jack Whitter-Jones!
+Hay, I'm Dr Jack Whitter-Jones!
 
 I am an avid developer and cyber security engineer programming in a number of languages and developing random tools.
 
